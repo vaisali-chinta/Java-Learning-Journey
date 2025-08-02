@@ -7,6 +7,6 @@ public class Comments {
        /*Multi 
             line 
               Comments*/
-       System.out.println("This is the \n/* Multi\nline \nComments*/");
+       System.out.println("This is the\n/* Multi\nline \nComments*/");
     }
 }
