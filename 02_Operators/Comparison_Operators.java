@@ -12,10 +12,5 @@ public class Comparison_Operators{
         System.out.println("(<)Less than for : "+a+" < "+b+" is "+(a<b));
         System.out.println("(>=)Greater than or Equal to for : "+a+" >= "+b+" is "+(a>=b));
         System.out.println("(<=)Less than or Equal to for : "+a+" <= "+b+" is "+(a<=b));
-
-
-
-
-
     }
 }
