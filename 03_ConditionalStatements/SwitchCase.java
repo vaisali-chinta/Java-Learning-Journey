@@ -29,6 +29,7 @@ public class SwitchCase {
             default:
             System.out.println("Invalid");
         }
+        sc.close();
     }
 }
             
