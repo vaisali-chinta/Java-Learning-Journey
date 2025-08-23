@@ -1,19 +1,18 @@
 import java.util.*;
-public class OddEvenChecker {
+public class NumberChecker {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the Number : ");
         int number = sc.nextInt();
 
-        //OddEvenChecker
-        
+        //OddEven
         if(number % 2 == 0){
             System.out.println(number+" is Even Number");
         } else {
             System.out.println(number+" is Odd Number");
         } 
 
-        //PrimeChecker
+        //Prime
         if(number <=1){
             System.out.println(number+" is neither prime nor Composite Number");
         } else {
