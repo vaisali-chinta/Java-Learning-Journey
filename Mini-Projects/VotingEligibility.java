@@ -9,5 +9,6 @@ public class VotingEligibility {
         } else {
             System.out.println("Not Eligible to vote");
         }
+        sc.close();
     }
 }
